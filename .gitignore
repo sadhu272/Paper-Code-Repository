@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+*.pth
+*.bin
+# 数据集、模型权重
+data/
+checkpoints/
+*.ckpt
+# 日志
+logs/
+# 环境
+.env
+.venv/
+# jupyter
+.ipynb_checkpoints
